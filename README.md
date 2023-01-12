@@ -22,7 +22,7 @@ o	διάφορά άλλα μικροεξαρτήματα όπως βάσεις �
 Υλικά που θα χρειαστούμε 
 
 
-•	Arduino Uno WiFi Rev2
+•	Arduino Uno WiFi Rev2 <br>
 •	Οδηγός για Βηματικό Κινητήρα TB6560
 •	Βηματικός Κινητήρας 4.5kg.cm
 •	Jumper Wires 15cm Female to Female - Pack of 10

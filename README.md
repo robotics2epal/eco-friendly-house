@@ -3,6 +3,8 @@
 
 Έργο για συμμετοχή στο 5ο Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση: GreenOpenEqual
 
+![εικόνα](https://user-images.githubusercontent.com/96844973/231902773-6d069e91-686d-4c59-81a1-e71f7216ca38.png)
+
 Με δεδομένη την υπάρχουσα παγκόσμια κατάσταση στο ενεργειακό πεδίο κρίνεται επιτακτική η θωράκιση των σπιτιών μας ούτως ώστε να καταναλώνουν όος το δυνατόν λιγότερη ενέργεια. Αυτό μπορεί να γίνει τόσο με παθητικά συστήματα όσο και με ενεργητικά. 
 
 
@@ -43,4 +45,3 @@
    
 [![Βίντεο από τη λειτουργία του project](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/embed/pKPuekAAOuM)
 
-[![Img alt text](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=YouTube_video_ID)

@@ -38,5 +38,11 @@
 
   
 <video src='https://www.youtube.com/embed/pKPuekAAOuM' width=180/>
-  
-https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4
+ <div align="center">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>

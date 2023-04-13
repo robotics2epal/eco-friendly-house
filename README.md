@@ -1,8 +1,8 @@
 
 Έργο για συμμετοχή στο 5ο Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση: GreenOpenEqual
-<center>
+
 [εικόνα](https://user-images.githubusercontent.com/96844973/231902773-6d069e91-686d-4c59-81a1-e71f7216ca38.png)
-</enter>
+
 
 
 

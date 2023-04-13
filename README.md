@@ -40,7 +40,6 @@
 </ul>
 
   
-https://www.youtube.com/embed/pKPuekAAOuM
-    
-[![Me at the zoo](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/watch?v=jNQXAC9IVRw)
-[![Img alt text](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=YouTube_video_ID)
+   
+[![Βίντεο από τη λειτουργία του project](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/embed/pKPuekAAOuM)
+

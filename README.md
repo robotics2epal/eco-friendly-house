@@ -43,5 +43,4 @@
 https://www.youtube.com/embed/pKPuekAAOuM
     
 [![Me at the zoo](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/watch?v=jNQXAC9IVRw)
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+[![Img alt text](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=YouTube_video_ID)

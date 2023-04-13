@@ -44,8 +44,4 @@ https://www.youtube.com/embed/pKPuekAAOuM
     
 [![Me at the zoo](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/watch?v=jNQXAC9IVRw)
 
-a href="https://youtu.be/5xwHkLPgvtQ" title="Music Caster Video Demo">
-  <p align="center">
-    <img width="75%" src="https://img.youtube.com/vi/5xwHkLPgvtQ/maxresdefault.jpg" alt="Music Caster Video Demo Thumbnail"/>
-  </p>
-</a>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 

@@ -43,4 +43,4 @@
 
   
    
-[![Βίντεο από τη λειτουργία του project](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=pKPuekAAOuM&t=17s)
+[![Βίντεο από τη λειτουργία του project]([https://i.imgur.com/vKb2F1B.png](https://user-images.githubusercontent.com/96844973/231902931-83ac5961-9a81-44c5-8665-fbecd5e00a3e.png))](https://www.youtube.com/watch?v=pKPuekAAOuM&t=17s)

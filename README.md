@@ -43,7 +43,7 @@
 
   
    
-[![Βίντεο από τη λειτουργία του project]
+[Βίντεο από τη λειτουργία του project]
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/pKPuekAAOuM)
 

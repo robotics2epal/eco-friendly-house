@@ -19,10 +19,10 @@
 </ul>
 
 
-<p>Η κλίμακα θα μικρότερη του κανονικού. 
+<p>Η κλίμακα είναι μικρότερη του κανονικού. 
 
  
-<p>Υλικά που θα χρειαστούμε 
+<p>Υλικά που χρησιμοποιήσαμε 
 
 <ul>
 <li>Arduino Uno WiFi Rev2
@@ -36,7 +36,6 @@
 <li>Slide Potentiometer Module 10Kohm
 <li>Waveshare Solar Power Manager (B) - 10000mAh
 <li>Φωτοβολταϊκή Κυψέλη 3W 250x140mm
-<li>Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11
 <li>Slide Potentiometer Module 10Kohm
 <li>Νήμα PLA 1.75mm
 </ul>

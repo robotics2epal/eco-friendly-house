@@ -43,4 +43,6 @@
 
   
    
-[![Βίντεο από τη λειτουργία του project]([https://i.imgur.com/vKb2F1B.png]https://www.youtube.com/watch?v=pKPuekAAOuM&t=17s)
+[![Βίντεο από τη λειτουργία του project](https://www.youtube.com/watch?v=pKPuekAAOuM&t=17s)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)

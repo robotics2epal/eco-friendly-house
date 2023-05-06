@@ -25,14 +25,12 @@
 <p>Υλικά που χρησιμοποιήσαμε 
 
 <ul>
-<li>Arduino Uno WiFi Rev2
-<li>Οδηγός για Βηματικό Κινητήρα TB6560
-<li>Βηματικός Κινητήρας 4.5kg.cm
+<li>Arduino Uno 
+<li>Κινητήρας servo 
 <li>Jumper Wires 15cm Female to Female - Pack of 10
 <li>Jumper Wires 15cm Female to Male - Pack of 10
 <li>Jumper Wires 15cm Male to Male - Pack of 10
 <li>Φωτοαντίσταση LDR 5mm
-<li>Bilge Water Pump 12V 350GPH
 <li>Slide Potentiometer Module 10Kohm
 <li>Waveshare Solar Power Manager (B) - 10000mAh
 <li>Φωτοβολταϊκή Κυψέλη 3W 250x140mm

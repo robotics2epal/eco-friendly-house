@@ -43,5 +43,5 @@
 
   
    
-[![Βίντεο από τη λειτουργία του project](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/embed/pKPuekAAOuM)
+[![Βίντεο από τη λειτουργία του project](https://www.youtube.com/watch?v=pKPuekAAOuM&t=5s)
 

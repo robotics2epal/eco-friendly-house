@@ -45,4 +45,5 @@
    
 [![Βίντεο από τη λειτουργία του project](https://www.youtube.com/watch?v=pKPuekAAOuM&t=17s)
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig))](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](http://robotics2epal.gr/images/projects/2022-23/wro_23_project1.jpg)](https://youtu.be/T-D1KVIuvjA)
+
